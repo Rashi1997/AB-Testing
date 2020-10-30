@@ -1,5 +1,5 @@
 # ab-testing
-
+[![Deploy](https://img.shields.io/badge/deploy-stable-brightgreen)](https://protected-plains-87390.herokuapp.com)
 ## Project setup
 ```
 npm install
